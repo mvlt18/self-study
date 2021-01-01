@@ -6,6 +6,16 @@ Focus is on review of following topics:
 - SAS
 - Python
 ----------
+R1D3- December 31, 2020
+
+**Today's Focus**
+- Udemy SQL for data analytics
+  - Section 14
+-freecodecamp
+  - working through Data Analysis with Python Certification Course 
+
+[**Link to work**](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/)
+----------
 R1D2- December 30, 2020
 
 **Today's Focus**
