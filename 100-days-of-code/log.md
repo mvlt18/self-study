@@ -14,7 +14,7 @@ R1D8- January 5, 2021
 
 [**Link to work**](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/)
 
-![Certification](/certificates/SQLcert.jpg)
+![Certification](/Certificates/SQLcert.jpg)
 
 ----------
 R1D7- January 4, 2021
