@@ -6,6 +6,14 @@ Focus is on review of following topics:
 - SAS
 - Python
 ----------
+R1D11- January 8, 2021
+
+**Today's Focus**
+- Udemy Advanced SQL
+  - Section 3
+
+[**Link to work**](https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/)
+----------
 R1D10- January 7, 2021
 
 **Today's Focus**
